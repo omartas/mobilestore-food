@@ -1,16 +1,4 @@
-# basitdeneme
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# greengrocery
+![Screenshot_20230408_022722](https://user-images.githubusercontent.com/56955207/230691975-f8ebda80-0edb-463c-aa0c-6af43c480a1c.png)
+![Screenshot_20230408_022736](https://user-images.githubusercontent.com/56955207/230691976-8b54394c-7ed0-4b1e-8504-284e21af2d4c.png)
+![Screenshot_20230408_022714](https://user-images.githubusercontent.com/56955207/230691977-bb433dd3-c765-4847-927a-d510edff70d8.png)
